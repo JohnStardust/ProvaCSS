@@ -1,0 +1,30 @@
+.banner {
+    background-image: url(../Conteudo/walpape.jpg);
+    height: 70vh;
+    width: 100%;
+    background-position-y: -20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 34px;
+    padding-top: 10rem;
+}
+
+.banner > h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bannertexto {
+    text-align: center;
+    margin: auto;
+    height: 30px;
+    width: 500px;
+    
+}
+
+.bannertexto > a {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,17 @@
+.cards {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin-top: 10rem;
+}
+
+.cards > li {
+    text-align: center;
+    width: 300px;
+}
+
+.cards > li > img {
+    width: 200px;
+    border-radius: 200px;
+}
+
